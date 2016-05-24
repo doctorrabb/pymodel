@@ -13,7 +13,7 @@ def MTL (filename):
         if values[0] == 'newmtl':
             mtl = contents[values[1]] = {}
         elif mtl is None:
-            print 'mtl file doesn't start with newmtl stmt'
+            print 'mtl file doesn\'t start with newmtl stmt'
             raise SystemExit (-1)
         elif values[0] == 'map_Kd':
             mtl[values[0]] = values[1]
