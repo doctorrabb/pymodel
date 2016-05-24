@@ -8,8 +8,7 @@
   <h2>Screenshots: </h2>
   <ol type="one">
     <li>
-      
+      <img src="http://img.cadnav.com/allimg/140728/1-140HQG537.jpg">
     </li>
-    <img src="http://img.cadnav.com/allimg/140728/1-140HQG537.jpg">
   </ol>
 </center>
