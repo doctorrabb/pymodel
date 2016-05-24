@@ -1,5 +1,5 @@
 <center>
-  <h1>PyModel 3D Model Editor (Now only viewer)</h1>
-  <h2>Version: </h2><font color="red">0.1</font>
-  <h2>Developer: </h2><font color="red">DOCTOR_RABB</font>
+  <h1>PyModel 3D Model Editor (</h1>Now only viewer<h1>)</h1>
+  <h2>Version: </h2><p>0.1</p>
+  <h2>Developer: </h2><p>DOCTOR_RABB</p>
 </center>
