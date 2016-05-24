@@ -6,9 +6,9 @@
   If you want to help, fork this repo and add something :)
   
   <h2>Screenshots: </h2>
-  <ul>
+  <ol type="one">
     <li>
       <img src="http://img.cadnav.com/allimg/140728/1-140HQG537.jpg">
     </li>
-  </ul>
+  </ol>
 </center>
