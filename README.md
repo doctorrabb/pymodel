@@ -4,5 +4,4 @@
     <h2>Developer: </h2><p>DOCTOR_RABB</p>
     
     
-    <img src="http://img.cadnav.com/allimg/140728/1-140HQG537.jpg">
 </center>
