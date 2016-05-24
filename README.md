@@ -1,12 +1,4 @@
-<head>
-  <style>
-    padding: 3px 0px 3px 10px;
-    list-style: none;
-    margin: 0;
-  </style>
-</head>
 
-<body>
   <center>
     <h1>PyModel 3D Model Editor </h1> (Now only viewer)
     <h2>Version: </h2><p>0.1</p>
@@ -21,4 +13,4 @@
       </li>
     </ol>
   </center>
-</body>
+
