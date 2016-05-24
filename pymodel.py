@@ -1,11 +1,11 @@
-from lib.config import parse
+from core.config import parse
 
 __version__ = '0.1'
 __author__ = 'DOCTOR_RABB'
 __configpath__ = 'config.json'
 __config__ = parse (__configpath__)
 
-from lib.formats import OBJ
+from core.formats import OBJ
 
 import sys, pygame
 from pygame.constants import *
