@@ -1,4 +1,3 @@
-
 <center>
     <h1>PyModel 3D Model Editor </h1> (Now only viewer)
     <h2>Version: </h2><p>0.1</p>
@@ -7,10 +6,9 @@
     If you want to help, fork this repo and add something :)
     
     <h2>Screenshots: </h2>
-    <ol type="1">
+    <ul type="1">
       <li>
         <img src="http://img.cadnav.com/allimg/140728/1-140HQG537.jpg">
       </li>
-    </ol>
+    </ul>
 </center>
-
