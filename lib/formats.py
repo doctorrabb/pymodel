@@ -2,7 +2,7 @@ import pygame
 from OpenGL.GL import *
 
 def MTL (filename):
-    contents = {}
+    contents = dict ()
     mtl = None
 
     # TODO: Parse MTL file
