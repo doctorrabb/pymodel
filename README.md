@@ -7,4 +7,5 @@
     <img src="http://img.cadnav.com/allimg/140728/1-140HQG537.jpg">
     <img src="https://pp.vk.me/c633520/v633520892/2dcf0/qIdGmNL8Vdk.jpg">
     <img src="https://pp.vk.me/c604525/v604525892/a414/fT3OlERNtgs.jpg">
+    <img src="https://pp.vk.me/c626121/v626121892/12509/SKNZh__Ud8U.jpg">
 </center>
