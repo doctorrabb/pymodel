@@ -33,7 +33,7 @@ edges = (
 
 def Cube():
     glColor3f (255, 255, 255)
-    glBegin(GL_LINES)
+    glBegin(GL_POLYGON)
     for edge in edges:
         for vertex in edge:
             glVertex3fv(verticies[vertex])
