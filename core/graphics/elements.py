@@ -25,7 +25,7 @@ class GraphicsWorker (object):
     def createCube (self, EDGES=DEFAULT_CUBE_EDGES, VERTS=DEFAULT_CUBE_VERTS):
 
         glPushMatrix()
-        glBegin (GL_LINES)
+        glBegin (GL_POLYGON)
 
         for e in EDGES:
             for v in e:
