@@ -1,6 +1,9 @@
+'''
+Working with model and material formatsl.
+'''
+
 import pygame
 from OpenGL.GL import *
-import os
 
 def MTL (filename):
 
@@ -35,7 +38,7 @@ def MTL (filename):
     return contents
 
 
-class OBJ:
+class OBJ (object):
     def __init__(self, filename, swapyz=False):
         self.vertices = []
         self.normals = []
