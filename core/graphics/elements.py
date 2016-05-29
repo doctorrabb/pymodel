@@ -1,3 +1,7 @@
+'''
+Default elements. Cube, grid, text and other...
+'''
+
 from OpenGL.GL import *
 from core.const import *
 
