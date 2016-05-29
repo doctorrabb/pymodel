@@ -1,3 +1,7 @@
+'''
+This module shows cube. Render Testing.
+'''
+
 import pygame
 from pygame.locals import *
 
