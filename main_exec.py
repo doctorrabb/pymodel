@@ -122,7 +122,7 @@ def main ():
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
         glLoadIdentity()
 
-        GraphicsWorker.drawText ((0, 0, 0), 'Hello', DEFAULT_FONT)
+      #  GraphicsWorker.drawText ((0, 0, 0), 'Hello', DEFAULT_FONT)
 
         if modelZMinus:
             rz -= 1
