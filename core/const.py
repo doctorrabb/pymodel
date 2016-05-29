@@ -1,3 +1,7 @@
+'''
+Constants. Config-file constants.
+'''
+
 from core.config import parse
 import pygame
 
